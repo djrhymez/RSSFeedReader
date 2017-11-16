@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment7</string>
+    <string-array name="font_sizes">
+        <item>Small</item>
+        <item>Large</item>
+        <item>Larger</item>
+    </string-array>
+    <string-array name="default_feed">
+        <item>Winnipeg Jets</item>
+        <item>Winnipeg Blue Bombers</item>
+    </string-array>
+</resources>
